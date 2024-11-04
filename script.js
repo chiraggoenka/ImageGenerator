@@ -1,4 +1,4 @@
-const accessKey= "iCp5Zy622IOZbZYhKjDJjsyDf9-jupPEX2ClK0PPrxE";
+const accessKey= apikey;
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
